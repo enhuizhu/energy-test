@@ -1,0 +1,25 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.recharts-wrapper {
+  font-size: 13px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+th {
+  background: #006a73;
+  color: white;
+}
+
+th, td {
+  border: solid 1px #dedede;
+  text-align: center;
+  padding: 5px;
+}

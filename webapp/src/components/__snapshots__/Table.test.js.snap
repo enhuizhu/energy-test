@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`table component renders correctly 1`] = `
+<table>
+  <tbody>
+    <tr>
+      <th>
+        a
+      </th>
+      <th>
+        b
+      </th>
+      <th>
+        c
+      </th>
+    </tr>
+    <tr>
+      <td>
+        1
+      </td>
+      <td>
+        2
+      </td>
+      <td>
+        3
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
